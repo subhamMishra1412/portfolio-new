@@ -21,7 +21,7 @@ export default function Hero() {
           View My Work
         </a>
         <a
-          href="/Subham_Mishra_Resume(1).pdf"
+          href="/Subham_Mishra_Resume (1).pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="px-6 py-3 bg-blue-500 text-black rounded hover:bg-blue-400 transition font-medium"
